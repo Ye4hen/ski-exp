@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Коментарі до skiexp	</title>
+	<atom:link href="https://ye4hen.github.io/ski-exp/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ye4hen.github.io/ski-exp</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Oct 2023 14:29:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>
+		Коментарі до Hexamid Solo Tent від admin		</title>
+		<link>https://ye4hen.github.io/ski-exp/product/hexamid-solo-tent/#comment-4</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate></pubDate>
+		<guid isPermaLink="false">https://kadence.pixel-show.com/outdoor-shop/?post_type=product&#038;p=519#comment-4</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Коментарі до Altaplex Tarp w/ Doors від admin		</title>
+		<link>https://ye4hen.github.io/ski-exp/product/altaplex-tarp-w-doors/#comment-5</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate></pubDate>
+		<guid isPermaLink="false">https://kadence.pixel-show.com/outdoor-shop/?post_type=product&#038;p=523#comment-5</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Коментарі до Arc Blast 55L від admin		</title>
+		<link>https://ye4hen.github.io/ski-exp/product/arc-blast-55l/#comment-3</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate></pubDate>
+		<guid isPermaLink="false">https://kadence.pixel-show.com/outdoor-shop/?post_type=product&#038;p=517#comment-3</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Коментарі до Plexamid Tent від admin		</title>
+		<link>https://ye4hen.github.io/ski-exp/product/plexamid-tent/#comment-2</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate></pubDate>
+		<guid isPermaLink="false">https://kadence.pixel-show.com/outdoor-shop/?post_type=product&#038;p=303#comment-2</guid>
+
+					<description><![CDATA[Nice!]]></description>
+			<content:encoded><![CDATA[<p>Nice!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
